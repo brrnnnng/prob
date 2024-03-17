@@ -83,6 +83,7 @@ public class Main {
         nums7.add(3);
         nums7.add(4);
 
+
         ArrayList<Integer> nums8 = new ArrayList<>(nums6);
         nums8.removeAll(nums7);
 
